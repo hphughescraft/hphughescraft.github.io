@@ -32,3 +32,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+![2022_Royster_Headshot](https://user-images.githubusercontent.com/116124029/198046934-efb0037d-1f22-41a6-bba5-755ddd843412.jpg)
+		
